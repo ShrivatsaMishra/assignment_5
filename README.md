@@ -31,5 +31,5 @@
 ## Submission
 
    - Format: Single PDF
-   - Due Date: TBA. Extra Credit: TBA
+   - Due Date: Nov 30
 
